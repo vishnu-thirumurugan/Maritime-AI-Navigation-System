@@ -1,0 +1,13 @@
+# Python package dependencies for Maritime AI Navigation System
+# Core scientific computing and data manipulation
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Deep learning framework for reinforcement learning
+torch>=1.9.0
+
+# Plotting and visualization
+matplotlib>=3.4.0
+
+# Reinforcement learning environment framework  
+gym>=0.21.0
